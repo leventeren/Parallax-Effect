@@ -1,2 +1,2 @@
 # deneme
-test
+github öğreniyorum
